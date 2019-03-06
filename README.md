@@ -1,6 +1,6 @@
 # Welcome to the SWICKgaming website!
 
-You can use the [editor on GitHub](https://github.com/SWICK3D/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+If you want to download game by SWICKgaming, just head to [the games repo](https://github.com/SWICK3D/Games)!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
